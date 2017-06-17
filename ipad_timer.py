@@ -1,10 +1,6 @@
 """
-This sample demonstrates a simple skill built with the Amazon Alexa Skills Kit.
-The Intent Schema, Custom Slots, and Sample Utterances for this skill, as well
-as testing instructions are located at http://amzn.to/1LzFrj6
-
-For additional samples, visit the Alexa Skills Kit Getting Started guide at
-http://amzn.to/1LGWsLG
+Alexa skill to manage my kids ipad usage time.  It asks who's taking turn using 
+the ipad, how much time each person gets, then sets a timer.
 """
 
 from __future__ import print_function
