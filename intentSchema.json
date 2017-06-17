@@ -1,11 +1,11 @@
 {
   "intents": [
     {
-      "intent": "MyColorIsIntent",
+      "intent": "WhoIsUsingIntent",
       "slots": [
         {
-          "name": "Color",
-          "type": "LIST_OF_COLORS"
+          "name": "Kid",
+          "type": "LIST_OF_KIDS"
         }
       ]
     },
